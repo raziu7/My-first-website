@@ -9,4 +9,4 @@ Welcome to my website — built from scratch during **National Apprenticeship We
 I'm learning how the web works by building something real.
 
 [Find out more about me](about.md)
-[My Projects](Projects.md)
+[My Projects](Project.md)
